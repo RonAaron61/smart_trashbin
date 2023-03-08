@@ -22,4 +22,12 @@ for the testing I made the trashcan using cardboard, with the size :
 
 In the schematic it used 1 MΩ for the piezoelectric but instead I used piezoelectric module because I found it more sensitive, but you could also try with the resistor connection like the schematic image
 
+the piezo module that I used:
+
+![piezomodul](https://user-images.githubusercontent.com/105662575/223736575-f80b993a-8589-436c-abed-7925ca4e1c15.jpg)
+
 After that it can be soldered into a PCB and used
+
+## Code
+
+I will not explain how to make the Blynk app, but the think you should know is in the code I send the data to V0 virtual pin in Blynk
