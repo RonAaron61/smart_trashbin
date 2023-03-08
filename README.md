@@ -8,7 +8,7 @@ Component used:
 - piezoelectric module
 - servo motor
 - ultrasonic sensor
-- AMS117 (5V regulator)
+- AMS1117 (5V regulator)
 - battery 18650 (3.7V)
 
 
@@ -24,7 +24,7 @@ In the schematic it used 1 MΩ for the piezoelectric but instead I used piezoele
 
 the piezo module that I used:
 
-![piezomodul](https://user-images.githubusercontent.com/105662575/223736575-f80b993a-8589-436c-abed-7925ca4e1c15.jpg)
+![piezomodul](https://user-images.githubusercontent.com/105662575/223737358-cd96f87f-9d74-49e9-adb6-5efe5d64262e.jpg)
 
 After that it can be soldered into a PCB and used
 
