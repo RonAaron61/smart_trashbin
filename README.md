@@ -7,18 +7,21 @@ Component used:
 - piezoelectric
 - piezoelectric module
 - servo motor
-- ultrasonic sensor
+- 2x ultrasonic sensor
 - AMS1117 (5V regulator)
-- battery 18650 (3.7V)
+- 2x 18650 battery (3.7V)
+- switch
 
 
-for the testing I made the trashcan using cardboard, with the size :
+for the testing I made the trashcan using cardboard, it will look like this:
 
-(image)
+![smartTrash](https://user-images.githubusercontent.com/105662575/224465232-4e87f00f-9a2a-491c-8eb9-217286939902.jpg)
+
 
 ## schematic:
 
-![image](https://user-images.githubusercontent.com/105662575/223736123-5c3e29b8-d5b3-459d-9f91-a150b90c5555.png)
+![schematic new](https://user-images.githubusercontent.com/105662575/224465222-6e38b0c4-1f0a-4fcf-b59c-95ffcd8f3179.png)
+
 
 In the schematic it used 1 MΩ for the piezoelectric but instead I used piezoelectric module because I found it more sensitive, but you could also try with the resistor connection like the schematic image
 
