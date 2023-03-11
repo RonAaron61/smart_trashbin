@@ -27,6 +27,11 @@ the schematic:
 
 In the schematic it used 1 MΩ for the piezoelectric but instead I used piezoelectric module because I found it more sensitive, but you could also try with the resistor connection like the schematic image
 
+Here's the image of the back, (yes it's messy I know :/ )
+
+![IMG_20230311_113247](https://user-images.githubusercontent.com/105662575/224486526-66ef09a7-9b49-4362-8640-d6eefc5d87fa.jpg)
+
+
 the piezo module that I used:
 
 ![piezomodul](https://user-images.githubusercontent.com/105662575/223737358-cd96f87f-9d74-49e9-adb6-5efe5d64262e.jpg)
