@@ -1,6 +1,6 @@
-# smart_trashcan
+# smart_trashbin
 
-making a "smart trashcan" dan can automatically open if there's hand near by or if you kick/knock the trash can, also it can detect if the trashcan is still empty or almost full via Blynk IoT app
+making a "smart trashbin" that can automatically open if there's hand near by or if you kick/knock the trash bin, also it can detect if the trashcan is still empty or almost full via Blynk IoT app
 
 Component used:
 - Wemos D1 mini
@@ -13,12 +13,14 @@ Component used:
 - switch
 
 
-for the testing I made the trashcan using cardboard, it will look like this:
+for the testing I made the trashbin using cardboard, it will look like this:
 
 ![smartTrash](https://user-images.githubusercontent.com/105662575/224465232-4e87f00f-9a2a-491c-8eb9-217286939902.jpg)
 
 
 ## schematic:
+
+the schematic:
 
 ![schematic new](https://user-images.githubusercontent.com/105662575/224465222-6e38b0c4-1f0a-4fcf-b59c-95ffcd8f3179.png)
 
@@ -34,3 +36,6 @@ After that it can be soldered into a PCB and used
 ## Code
 
 I will not explain how to make the Blynk app, but the think you should know is in the code I send the data to V0 virtual pin in Blynk
+
+![image](https://user-images.githubusercontent.com/105662575/224479754-273ff7a8-3b13-45ee-b1a0-0db3b39b7ede.png)
+
