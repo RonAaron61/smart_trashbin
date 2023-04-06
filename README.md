@@ -2,6 +2,8 @@
 
 making a "smart trashbin" that can automatically open if there's hand near by or if you kick/knock the trash bin, also it can detect if the trashcan is still empty or almost full via Blynk IoT app
 
+Result: ![Youtube](https://youtu.be/D5NwpHVRmEs)
+
 Component used:
 - Wemos D1 mini
 - piezoelectric
